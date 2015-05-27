@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- DEFINES LABELS SEEN IN SETTINGS OPTION DATE FORMAT -->
+    <string-array name="pref_date_options">
+        <item>@string/pref_date_default</item>
+        <item>@string/pref_date_us</item>
+        <item>@string/pref_date_japan</item>
+    </string-array>
+
+
+    <!-- DEFINES VALUES SEEN IN SETTINGS OPTION DATE FORMAT -->
+    <string-array name="pref_date_values">
+        <item>@string/pref_date_default</item>
+        <item>@string/pref_date_us</item>
+        <item>@string/pref_date_japan</item>
+    </string-array>
+
+
+</resources>

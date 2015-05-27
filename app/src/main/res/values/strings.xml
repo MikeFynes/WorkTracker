@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">WorkTracker</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="submit">Submit</string>
+    <string name="tab_lbl_intro">Main</string>
+    <string name="tab_lbl_time">Track</string>
+    <string name="current_status">Current Status:</string>
+    <string name="checked_in">Checked In</string>
+    <string name="checked_out">Not checked in</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="check_out">Manual Check Out</string>
+    <string name="check_in">Manual Check In</string>
+    <string name="det_date">Date</string>
+    <string name="det_start">Start</string>
+    <string name="det_end">End</string>
+
+
+<!--PREFERENCE SETTINGS STRINGS -->
+    <string name="pref_date_default">dd/MM/yyyy</string>
+    <string name="pref_date_us">MM/dd/yyyy</string>
+    <string name="pref_date_japan">yyyy/MM/dd</string>
+    <string name="pref_date_label">Date Format</string>
+    <string name="pref_date_key">pref_date_format</string>
+    <string name="det_total">Total</string>
+    <string name="action_help">Help</string>
+    <string name="pref_list_size">List Size</string>
+    <string name="pref_list_key">list_size</string>
+    <string name="pref_list_default">7</string>
+    <string name="pref_list_hint">Max value is 25</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="pref_user_key">user</string>
+    <string name="end_time_key">endTime</string>
+    <string name="end_time_default">0</string>
+    <string name="pref_login_last">loginKey</string>
+    <string name="pref_login_default">nokey</string>
+    <string name="pref_wifi_key">wifi</string>
+    <string name="pref_wifi_default">default</string>
+
+</resources>

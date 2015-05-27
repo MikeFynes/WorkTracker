@@ -1,0 +1,17 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:title="@string/pref_date_label"
+        android:key="@string/pref_date_key"
+        android:defaultValue="@string/pref_date_default"
+        android:entryValues="@array/pref_date_values"
+        android:entries="@array/pref_date_options" />
+<EditTextPreference
+    android:title="@string/pref_list_size"
+    android:key="@string/pref_list_key"
+    android:defaultValue="@string/pref_list_default"
+    android:hint="@string/pref_list_hint"
+    android:inputType="number"
+    />
+
+</PreferenceScreen>

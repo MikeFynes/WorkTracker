@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_blue">#add8e6</color>
+    <color name="blue">#01ade5</color>
+    <color name="green">#ff88e57b</color>
+    <color name="yellow">#ffe5e000</color>
+    <color name="grey">#ff8c8b95</color>
+    <color name="blue_grey">#ff7d9ba3</color>
+    <color name="light_green">#99cc00</color>
+
+
+</resources>
